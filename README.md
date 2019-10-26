@@ -1,4 +1,11 @@
-# LoginNodeJS
+# Trabajo de Investigación: Node js - Grupo 03
 
-Posible conflicto con la base de datos. Referencia: https://stackoverflow.com/questions/50093144/mysql-8-0-client-does-not-support-authentication-protocol-requested-by-server
+## Proyecto: Login 
 
+## Stack de Dependencias
+
+- Node js [Official Docs](https://nodejs.org/es/docs/)
+- Express js [Official Docs](https://expressjs.com/es/api.html)
+- MySql [Official Docs](https://dev.mysql.com/doc/)
+
+## Author: Sánchez Agreda, Zandor 
